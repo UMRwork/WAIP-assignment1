@@ -1,0 +1,58 @@
+ html {zoom: 170%;}
+
+body {margin: 0;
+background: url(https://cdn.discordapp.com/attachments/795758905904988200/835093415544225822/blue-copy-space-digital-background_23-2148821698.png) no-repeat 50% fixed;
+background-size: cover;
+color: #fff;
+}
+
+
+
+img.border {
+    border-style: solid;
+    border-color:rgb(0, 0, 0);
+}
+
+img.hovering:hover {opacity: 0.7;}
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+
+div.mid-box{
+    margin: auto;
+    text-align: center;
+}
+
+div.select-student{
+    background-color: rgb(57, 255, 133);
+    position:absolute;
+    height:80px;
+    width:100%;
+    top:50%;
+    font-size:23px;
+}
+div.select-student:hover {opacity: 0.7;}
+
+div.select-seller{
+    background-color: #94d0f8;
+    position:absolute;
+    height:80px;
+    width:100%;
+    top:75%;
+    font-size:23px;
+}
+div.select-seller:hover {opacity: 0.7;}
+
+/*
+span.cls_020{font-family:Times,serif;font-size:7.0px;color:rgb(255,255,255);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_020{font-family:Times,serif;font-size:7.0px;color:rgb(255,255,255);font-weight:normal;font-style:normal;text-decoration: none}
+*/
